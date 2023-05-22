@@ -2,47 +2,80 @@
   "projects": [
     {
       "visible": true,
-      "category": "🕹️ EASY AND QUICK SETUP",
-      "title": "Add content and deploy!",
-      "description": "Get up and running within minutes. Just install the starter, add your content, deploy it, and there you go! This starter works seamlessly with hosts like Netlify. Photo by Clément H on Unsplash.",
-      "tags": ["Content Integration", "Ready-2-Deploy"],
+      "category": "Workarea Platfrom",
+      "title": "ShopTerrain & BHLDN",
+      "description": "As part of an agency team, I built the ShopTerrain and BHLDN storefronts using the Workarea platform. Customized themes and templates to align with unique needs and branding of each store. Collaborated with cross-functional teams to ensure smooth and successful launches. Developed and implemented e-commerce marketing campaigns using Workarea's tools and features. Assisted in troubleshooting and problem-solving for storefronts.",
+      "tags": ["Workarea Development", "E-commerce Marketing", "Troubleshooting"],
       "image": {
-        "src": "../../images/clement-h-95YRwf6CNw8-unsplash.jpg",
-        "alt": "Quick Setup",
-        "linkTo": "https://github.com/konstantinmuenster/gatsby-starter-portfolio-minimal-theme"
+        "src": "../../images/shopterrain-bhldn.jpeg",
+        "alt": "ShopTerrain & BHLDN"
       },
-      "links": [
-        {
-          "type": "github",
-          "url": "https://github.com/konstantinmuenster/gatsby-starter-portfolio-minimal-theme"
-        },
-        {
-          "type": "external",
-          "url": "https://www.gatsbyjs.org/docs/mdx/writing-pages/"
-        }
-      ]
+      "links": []
     },
     {
       "visible": true,
-      "category": "🧰 EXTENDABLE LAYOUT",
-      "title": "Add more sections!",
-      "description": "The starter includes predefined sections as well as a template for new, custom sections. Moreover, you can add new projects to this section without additional coding. Photo by Kelly Sikkema on Unsplash.",
-      "tags": ["Custom Sections", "Easy-2-Use"],
+      "category": "Shopify Platform",
+      "title": "Healthycell",
+      "description": "Built and maintained Healthycell.com on Shopify using a style guide-driven, component-based React build. Customized themes and templates to align with the brand's aesthetic and messaging. Implemented e-commerce marketing campaigns to promote the brand's unique nutrient delivery technologies, such as MICROGEL™. Assisted in troubleshooting and problem-solving for store issues. Worked with cross-functional teams to ensure smooth operation of the store.",
+      "tags": ["Shopify Development", "Front-end Development", "Troubleshooting"],
       "image": {
-        "src": "../../images/kelly-sikkema-Hl3LUdyKRic-unsplash.jpg",
-        "alt": "Extendable Layout"
+        "src": "../../images/healthycell.jpeg",
+        "alt": "Healthycell"
       },
-      "links": [
-        {
-          "type": "github",
-          "url": "https://github.com/konstantinmuenster/gatsby-starter-portfolio-minimal-theme"
-        }
-      ]
+      "links": []
+    },
+    {
+      "visible": true,
+      "category": "Shopify Platform",
+      "title": "BVA Commerce",
+      "description": "Built the BVA Commerce agency website using a style guide-driven, component-based React build with a Contentful CMS. Customized the website's theme and templates to align with the agency's branding and messaging. Worked with cross-functional teams to ensure smooth operation and maintenance of the website. Assisted in troubleshooting and problem-solving for website issues.",
+      "tags": ["Reac Development", "Content Management", "Troubleshooting"],
+      "image": {
+        "src": "../../images/bva-commerce.jpeg",
+        "alt": "BVA Commerce"
+      },
+      "links": []
+    },
+    {
+      "visible": true,
+      "category": "Shopify Platform",
+      "title": "LimeCrime",
+      "description": "Provided maintenance for LimeCrime.com on the Workarea e-commerce platform. Assisted in troubleshooting and problem-solving for store issues. Worked with cross-functional teams to ensure smooth operation of the store. Updated and maintained the store's theme and templates to align with Lime Crime's brand and aesthetic.",
+      "tags": ["Workarea Development", "Troubleshooting", "Front-end Development"],
+      "image": {
+        "src": "../../images/limecrime.jpeg",
+        "alt": "LimeCrime"
+      },
+      "links": []
+    },
+    {
+      "visible": true,
+      "category": "Workarea Platform",
+      "title": "Sanrio",
+      "description": "Provided maintenance for Sanrio.com on the Workarea e-commerce platform. Assisted in troubleshooting and problem-solving for store issues. Worked with cross-functional teams to ensure smooth operation of the store. Updated and maintained the store's theme and templates to align with Sanrio's brand and aesthetic.",
+      "tags": ["Workarea Development", "Troubleshooting", "Front-end Development"],
+      "image": {
+        "src": "../../images/sanrio.jpeg",
+        "alt": "Sanrio"
+      },
+      "links": []
+    },
+    {
+      "visible": true,
+      "category": "Workarea Platform",
+      "title": "WorldWide Stereo",
+      "description": "Provided maintenance for WorldWideStereo.com on the Workarea e-commerce platform. Worked with cross-functional teams to ensure smooth operation of the store. Updated and maintained the store's theme and templates as needed, contributing to the overall user experience.",
+      "tags": ["Workarea Development", "Front-end Development", "Maintenance"],
+      "image": {
+        "src": "../../images/worldwide-stereo.jpeg",
+        "alt": "WorldWide Stereo"
+      },
+      "links": []
     }
   ],
   "button": {
     "visible": true,
     "label": "Visit on Github",
-    "url": "https://github.com/konstantinmuenster/gatsby-theme-portfolio-minimal"
+    "url": "https://github.com/NBurton830"
   }
 }

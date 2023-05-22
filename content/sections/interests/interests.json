@@ -1,14 +1,14 @@
 {
   "interests": [
     {
-      "label": "Quick and Easy Setup",
+      "label": "HTML, CSS, and JavaScript",
       "image": {
         "src": "../../images/joystick.png",
         "alt": ""
       }
     },
     {
-      "label": "Content via Markdown",
+      "label": "Shopify Development",
       "image": {
         "src": "../../images/notebook.png",
         "alt": ""
@@ -22,35 +22,35 @@
       }
     },
     {
-      "label": "Medium Integration",
+      "label": "E-commerce Marketing Strategies",
       "image": {
         "src": "../../images/medium.png",
         "alt": ""
       }
     },
     {
-      "label": "Animations",
+      "label": "Agile Development Methodologies",
       "image": {
         "src": "../../images/gem-stone.png",
         "alt": ""
       }
     },
     {
-      "label": "PWA (Offline Support)",
+      "label": "Troubleshooting and Problem-solving",
       "image": {
         "src": "../../images/mobile-phone.png",
         "alt": ""
       }
     },
     {
-      "label": "Modern Tech-Stack",
+      "label": "Front-end Development",
       "image": {
-        "src": "../../images/gatsby.png",
+        "src": "../../images/high-voltage.png",
         "alt": ""
       }
     },
     {
-      "label": "Blazing Fast",
+      "label": "Communication and Collaboration",
       "image": {
         "src": "../../images/high-voltage.png",
         "alt": ""

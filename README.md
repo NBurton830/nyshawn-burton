@@ -12,7 +12,7 @@ Portfolio Minimal is a Gatsby Theme that let's you create outstanding one-page p
 
 Just clone this Gatsby Starter, add the content. And that's it!
 
-[Live Demo on Gatsby Cloud](https://gatsbystarterportfoliominimalt.gatsbyjs.io/) · [Live Demo on Netlify](https://gatsby-starter-portfolio-minimal-theme.netlify.app/) · [Portfolio Minimal Theme on Github](https://github.com/konstantinmuenster/gatsby-theme-portfolio-minimal)
+[Live Demo on Gatsby Cloud](https://gatsbystarterportfoliominimalt.gatsbyjs.io/) · [Live Demo on Netlify](https://gatsby-starter-portfolio-minimal-theme.netlify.app/) · [ Minimal Theme on Github](https://github.com/konstantinmuenster/gatsby-theme-portfolio-minimal)
 
 ---
 
@@ -41,11 +41,11 @@ Just clone this Gatsby Starter, add the content. And that's it!
 
 ---
 
-## Issues?
+## Want hire me?
 
-If you find any bugs or have feature suggestions, create a new issue or pull request 🙏
+Download my resume in the menu 🙏
 
-Thanks a lot for using this starter! 💪
+Thanks a lot for taking a look at my portfolio website! 💪
 
 ---
 
